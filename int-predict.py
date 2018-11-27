@@ -1,6 +1,6 @@
 """
 ================================
-Raspberry Pi Cam Predicting hand-written digits
+Raspberry Pi Predicting hand-written digits
 ================================
 """
 print(__doc__)
