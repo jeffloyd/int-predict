@@ -1,5 +1,5 @@
 # int-predict
-handwritten image prediction connected to raspberry pi &amp; cam
+handwritten image prediction running on a raspberry pi
 
 Classification report SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
   decision_function_shape=None, degree=3, gamma=0.001, kernel='rbf',
