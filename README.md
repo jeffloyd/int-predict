@@ -21,8 +21,11 @@ Classification report SVC(C=1.0, cache_size=200, class_weight=None, coef0=0.0,
 avg / total       0.97      0.97      0.97       899
 
 Confusion matrix:
+
 [[87  0  0  0  1  0  0  0  0  0]
+
  [ 0 88  1  0  0  0  0  0  1  1]
+ 
  [ 0  0 85  1  0  0  0  0  0  0]
  [ 0  0  0 79  0  3  0  4  5  0]
  [ 0  0  0  0 88  0  0  0  0  4]
